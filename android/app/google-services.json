@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "610535227180",
+    "project_id": "cinesound",
+    "storage_bucket": "cinesound.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610535227180:android:559ad9a94835f88103b689",
+        "android_client_info": {
+          "package_name": "com.hlgb.cinesound"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610535227180-p2lvee13ua6tc7vk7tega06oeqe6v4ah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hlgb.cinesound",
+            "certificate_hash": "93caf75602ce3a166af7f868a71c2a63cc35cef1"
+          }
+        },
+        {
+          "client_id": "610535227180-l5mqdr1m803q8r6qgicjqf18nredkjl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgWYjaVd8H1Gm1bFZYLT2Wta7EIy1YcsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610535227180-l5mqdr1m803q8r6qgicjqf18nredkjl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
